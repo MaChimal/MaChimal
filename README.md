@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <img align='left' src='https://media4.giphy.com/media/FoVzfcqCDSb7zCynOp/200w.webp?cid=ecf05e474deqi0tzj8r229ll818qxs87fiy7vjduyx75bewc&rid=200w.webp&ct=g' width='170px'>  
 
-My name is ***Mario Chimal***.  
+Soy ***Mario Chimal***.  
 
 <br>
 
-I am a physics student who loves to program. :octocat: 
+Físico y dev. Ciencia, código y una pizca de magia. :octocat: 
 
 <br>
 
